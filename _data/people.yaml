@@ -16,3 +16,10 @@
     - Random Forests
   applications:
     - crop modelling
+- name: Ioannis Droutsas
+  social:
+    website: https://environment.leeds.ac.uk/see/staff/9648/dr-ioannis-droutsas
+  techniques:
+    - Random Forests, XGBoost
+  applications:
+    - crop modelling
